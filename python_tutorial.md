@@ -82,7 +82,8 @@ export PATH=/usr/local/Cellar/python@3.9/3.9.5/bin:$PATH
 
 ### Mac
 
-- https://stackoverflow.com/questions/18425379/how-to-set-pythons-default-version-to-3-x-on-os-x
+- Python: https://stackoverflow.com/questions/18425379/how-to-set-pythons-default-version-to-3-x-on-os-x
+- Upgrade PIP: `/usr/local/opt/python@3.9/bin/python3.9 -m pip install --upgrade pip`
 
 ### Windows
 
