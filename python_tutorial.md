@@ -345,3 +345,7 @@ Generators give Iterators
 ## Socket Programming
 
 https://www.geeksforgeeks.org/socket-programming-python/
+
+## Meta Class
+
+https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python/100146#100146
