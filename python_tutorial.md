@@ -166,6 +166,12 @@ Binstar - a service that allows you to create and manage public and private cond
 - If 2 variables have the same data, they will point to the same box.
 - Address is not based on variable, but based on box.
 
+**When arguments are passed into functions**:   
+- Primitive & immutable data types (eg Tuple): Pass by value (data is copied over), so if the data gets changed inside the function -> it won't change outside the function.
+- Mutable data types (eg list, set & dict): Pass by assignment (a reference is passed over), so if the data gets changed inside the function -> it also changes outside the function.
+
+https://www.youtube.com/watch?v=otWHB_IEeHI
+
 ### Strings
 
 - Concat using `+`
